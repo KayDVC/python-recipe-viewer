@@ -5,6 +5,6 @@ Split into 2 version:
 Please navigate to each version using the branch selection feature. 
 MIT license applies to all branches in this repository.
 
-\-Thanks,
+Thanks,
 
-Kay
+\-Kay
