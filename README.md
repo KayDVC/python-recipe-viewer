@@ -1,5 +1,3 @@
-# Hey all,
-
 This project was the second version of a 2-version simple recipe viewer application completed as an assignment for a Python programming course I took. 
 
 It uses Python's PyQt6 module to create a interative GUI that displays a recipe's basic details like name, cook & prep times, and servings created and more if desired.
